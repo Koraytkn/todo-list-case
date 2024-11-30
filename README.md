@@ -135,7 +135,7 @@ This repository contains a **Todo List Application** developed as a solution for
 
 ```bash
 
-git clone https://github.com/your-repo/sap-case-todo-list.git
+git clone https://github.com/Koraytkn/todo-list-case.git
 
 cd sap_case_todo_list
 
