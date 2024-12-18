@@ -1,7 +1,7 @@
 
   
 
-# SAP Case: Todo List Application
+# Case: Todo List Application
 
   
 
