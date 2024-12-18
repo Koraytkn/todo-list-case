@@ -5,7 +5,7 @@
 
   
 
-This repository contains a **Todo List Application** developed as a solution for the SAP case study. It consists of a **backend** built with Spring Boot and a **frontend** built with React.js. Both are dockerized to ensure seamless deployment and testing.
+This repository contains a **Todo List Application** developed as a solution for a case study. It consists of a **backend** built with Spring Boot and a **frontend** built with React.js. Both are dockerized to ensure seamless deployment and testing.
 
   
 
